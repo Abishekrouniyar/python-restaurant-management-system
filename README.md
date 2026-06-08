@@ -27,3 +27,7 @@ A Python-based Restaurant Management System that simulates real-world restaurant
 ## 🚀 How to Run
 ```bash
 python Menu.py
+
+## 🖥️ Output
+
+![Output](output.png)
